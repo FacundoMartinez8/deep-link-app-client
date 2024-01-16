@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.facundo.martinez.app.client",
+            "sha256_cert_fingerprints": [
+                "5E:88:5C:53:00:C1:99:8E:26:BC:D0:90:BB:0D:FC:33:5D:F2:07:36:F4:92:02:98:F8:91:E1:AE:DD:00:0B:7A"
+            ]
+        }
+    }
+]
